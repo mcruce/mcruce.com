@@ -1,4 +1,4 @@
 # mcruce.com  
 
-My personal playground for buildinga a website
+Portfolio site for Marcus Cruce
 
