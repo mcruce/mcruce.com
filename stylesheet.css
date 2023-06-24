@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p.name {
+    font-size: 25px;
+}
+.navbar {
+    height: 50px;
+    overflow: hidden;
+    background-color: rgb(196, 196, 196);
+}
+.navbar a {
+    float: right;
+    color: black;
+    text-decoration: none;
+    text-align: center;
+    padding: 10px;
+    padding-top: 15px;
+    font-size: 17px;
+}
+.navbar a:hover {
+    border-bottom: 5px solid black;
+}
+.about {
+    padding: 10px;
+}
