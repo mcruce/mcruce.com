@@ -22,6 +22,19 @@ p.name {
 .navbar a:hover {
     border-bottom: 5px solid black;
 }
+.text {
+    float: right;
+    width: 80%;
+}
 .about {
-    padding: 10px;
+    padding: 20px;
+}
+.about::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+#me {
+    float: left;
+    height: 150px;
 }
